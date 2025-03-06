@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benwasserman
-- 👀 I’m interested in the ecology and evolution of intraspecific trait variation, aquatic ecology, and STEM teacher retention.
-- 📫 You can reach me at ben.wasserman@uconn.edu
+- 👀 I’m interested in the fisheries stock assessment, population ecology, the ecology and evolution of intraspecific trait variation, and STEM teacher retention.
+- 📫 You can reach me at ben.wasserman@delaware.gov
 
 <!---
 benwasserman/benwasserman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
